@@ -1,0 +1,92 @@
+ 1. Customers Table
+CREATE TABLE customers (
+    customer_id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    email VARCHAR(100) UNIQUE NOT NULL,
+    segment VARCHAR(50) DEFAULT 'Medium',
+    created_at TIMESTAMP DEFAULT NOW()
+);
+
+-- 2. Sales Reps Table
+CREATE TABLE sales_reps (
+    rep_id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    region VARCHAR(50),
+    hire_date DATE
+);
+
+-- 3. Products Table
+CREATE TABLE products (
+    product_id SERIAL PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    category VARCHAR(50),
+    price NUMERIC(10,2) NOT NULL
+);
+
+-- 4. Deals Table
+CREATE TABLE deals (
+    deal_id SERIAL PRIMARY KEY,
+    customer_id INT NOT NULL,
+    product_id INT NOT NULL,
+    rep_id INT NOT NULL,
+    deal_value NUMERIC(12,2) NOT NULL,
+    stage VARCHAR(50) DEFAULT 'Prospect',
+    created_at TIMESTAMP DEFAULT NOW(),
+    close_date DATE,
+    FOREIGN KEY (customer_id) REFERENCES customers(customer_id),
+    FOREIGN KEY (product_id) REFERENCES products(product_id),
+    FOREIGN KEY (rep_id) REFERENCES sales_reps(rep_id)
+);
+
+-- 5. Pipeline Stages Table
+CREATE TABLE pipeline_stages (
+    stage_id SERIAL PRIMARY KEY,
+    stage_name VARCHAR(50) UNIQUE NOT NULL,
+    probability NUMERIC(5,2) DEFAULT 0
+);
+
+-- 6. Deal Activities Table
+CREATE TABLE deal_activities (
+    activity_id SERIAL PRIMARY KEY,
+    deal_id INT NOT NULL,
+    activity_type VARCHAR(50),
+    activity_date TIMESTAMP DEFAULT NOW(),
+    notes TEXT,
+    FOREIGN KEY (deal_id) REFERENCES deals(deal_id)
+);
+
+-- 7. Revenue Table
+CREATE TABLE revenue (
+    revenue_id SERIAL PRIMARY KEY,
+    deal_id INT NOT NULL,
+    amount NUMERIC(12,2) NOT NULL,
+    received_date DATE NOT NULL,
+    FOREIGN KEY (deal_id) REFERENCES deals(deal_id)
+);
+
+-- 8. Forecast Table
+CREATE TABLE forecasts (
+    forecast_id SERIAL PRIMARY KEY,
+    rep_id INT NOT NULL,
+    month DATE NOT NULL,
+    predicted_revenue NUMERIC(12,2) NOT NULL,
+    FOREIGN KEY (rep_id) REFERENCES sales_reps(rep_id)
+);
+
+-- 9. Churn Signals Table
+CREATE TABLE churn_signals (
+    churn_id SERIAL PRIMARY KEY,
+    customer_id INT NOT NULL,
+    last_activity_date DATE,
+    risk_level VARCHAR(20) DEFAULT 'Medium',
+    FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
+);
+
+-- 10. Opportunity Scores Table
+CREATE TABLE opportunity_scores (
+    score_id SERIAL PRIMARY KEY,
+    deal_id INT NOT NULL,
+    score NUMERIC(5,2),
+    next_best_action VARCHAR(100),
+    FOREIGN KEY (deal_id) REFERENCES deals(deal_id)
+);
