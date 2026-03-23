@@ -1,0 +1,201 @@
+score_id,deal_id,score,next_best_action
+1,1,87.45,Schedule executive sponsor call
+2,2,62.3,Send product demo follow-up
+3,3,91.2,Prepare and deliver final proposal
+4,4,45.75,Re-engage with updated pricing
+5,5,78.9,Coordinate legal review of contract
+6,6,55.6,Share relevant customer case studies
+7,7,93.1,Initiate contract redline process
+8,8,38.25,Schedule discovery call with decision maker
+9,9,70.4,Arrange product pilot kickoff
+10,10,83.55,Present ROI analysis to stakeholder
+11,11,47.8,Follow up on pending technical evaluation
+12,12,66.95,Schedule procurement alignment meeting
+13,13,89.7,Deliver customized solution demo
+14,14,52.15,Send competitive differentiation deck
+15,15,74.3,Confirm budget approval timeline
+16,16,41.6,Re-engage dormant opportunity
+17,17,95.85,Finalize and send contract for signature
+18,18,60.45,Schedule technical deep dive session
+19,19,82.2,Confirm implementation timeline with client
+20,20,35.9,Qualify stakeholder map and decision process
+21,21,77.65,Send proposal with revised scope
+22,22,68.1,Arrange executive business review
+23,23,88.35,Follow up on legal redlines
+24,24,43.5,Conduct needs assessment workshop
+25,25,71.8,Share updated product roadmap
+26,26,56.25,Align on success metrics and KPIs
+27,27,92.4,Obtain purchase order confirmation
+28,28,49.7,Schedule champion enablement session
+29,29,80.15,Deliver proof of concept results
+30,30,64.55,Coordinate reference customer call
+31,31,39.85,Requalify opportunity with new contact
+32,32,76.3,Send final pricing and terms
+33,33,85.9,Confirm contract approval with legal
+34,34,58.4,Schedule multi-stakeholder alignment call
+35,35,69.75,Share integration architecture overview
+36,36,44.2,Re-engage with product update briefing
+37,37,90.6,Execute order form and close deal
+38,38,63.85,Arrange security and compliance review
+39,39,79.5,Validate technical requirements sign-off
+40,40,53.1,Conduct value engineering workshop
+41,41,86.75,Prepare board-level presentation materials
+42,42,47.3,Identify and engage additional champions
+43,43,72.95,Deliver updated statement of work
+44,44,61.4,Schedule post-demo Q&A session
+45,45,94.2,Coordinate final commercial negotiation
+46,46,36.6,Run targeted outreach to re-engage
+47,47,81.35,Confirm go-live date and resource plan
+48,48,67.8,Send customer success onboarding plan
+49,49,75.55,Align legal teams on contract terms
+50,50,50.9,Conduct stakeholder discovery session
+51,51,88.1,Deliver executive summary presentation
+52,52,42.75,Share new product features overview
+53,53,73.4,Confirm procurement process and timeline
+54,54,57.65,Schedule technical requirements review
+55,55,84.3,Obtain verbal commitment from sponsor
+56,56,46.95,Re-engage with competitive win story
+57,57,91.55,Send final contract for countersignature
+58,58,65.2,Arrange product integration workshop
+59,59,78.85,Validate solution fit with technical team
+60,60,54.4,Conduct business impact assessment
+61,61,87.6,Present implementation roadmap to client
+62,62,48.15,Identify budget owner and engage directly
+63,63,70.75,Share tailored industry benchmark report
+64,64,62.5,Schedule pilot program review meeting
+65,65,93.85,Confirm purchase order and invoice details
+66,66,37.3,Follow up with refreshed value proposition
+67,67,80.7,Coordinate security questionnaire completion
+68,68,66.45,Deliver updated business case document
+69,69,76.1,Schedule contract walkthrough session
+70,70,51.85,Conduct technical feasibility assessment
+71,71,89.4,Finalize implementation scoping document
+72,72,44.6,Re-engage champion with new ROI data
+73,73,74.25,Schedule executive alignment meeting
+74,74,59.8,Send product comparison analysis
+75,75,85.55,Confirm final approval from finance team
+76,76,40.15,Qualify new inbound stakeholder interest
+77,77,82.9,Prepare and submit master service agreement
+78,78,68.35,Arrange cross-functional demo session
+79,79,77.6,Validate pricing with procurement team
+80,80,55.05,Conduct gap analysis with solutions team
+81,81,90.25,Obtain legal sign-off on final contract
+82,82,43.8,Schedule re-engagement call with champion
+83,83,71.5,Deliver updated solution proposal
+84,84,60.95,Arrange product roadmap alignment session
+85,85,86.2,Confirm budget release and PO issuance
+86,86,49.45,Identify and qualify new decision maker
+87,87,92.75,Execute signature process and close deal
+88,88,64.1,Schedule technical onboarding planning call
+89,89,79.85,Validate go-live readiness with IT team
+90,90,53.35,Conduct solution architecture review
+91,91,88.5,Prepare contract amendment and addendum
+92,92,41.05,Re-engage with updated competitive analysis
+93,93,73.7,Schedule pricing negotiation session
+94,94,58.95,Share customer success metrics report
+95,95,83.4,Confirm stakeholder approval for procurement
+96,96,46.2,Follow up on outstanding technical questions
+97,97,91.95,Coordinate final contract review and sign-off
+98,98,67.65,Deliver integration readiness assessment
+99,99,76.3,Schedule executive sponsor alignment
+100,100,52.8,Conduct business requirements workshop
+101,101,87.15,Present final negotiated commercial terms
+102,102,45.4,Re-qualify opportunity with updated scope
+103,103,72.85,Schedule solution validation workshop
+104,104,61.6,Send revised statement of work
+105,105,93.5,Obtain board approval for enterprise deal
+106,106,38.75,Engage new stakeholder identified in account
+107,107,81.1,Prepare and deliver closing business case
+108,108,66.35,Arrange technical proof of concept review
+109,109,78,Confirm implementation partner selection
+110,110,54.65,Conduct discovery with IT security team
+111,111,89.85,Finalize pricing and payment terms
+112,112,42.3,Schedule re-engagement with new champion
+113,113,74.55,Deliver customized ROI model
+114,114,59.2,Arrange product capability demonstration
+115,115,84.8,Confirm legal review completion timeline
+116,116,47.05,Follow up on stalled technical evaluation
+117,117,90.45,Submit final order form for processing
+118,118,63.3,Schedule cross-functional alignment meeting
+119,119,77.75,Validate data migration requirements
+120,120,50.5,Conduct commercial terms negotiation prep
+121,121,86.4,Present executive-level business review
+122,122,44.85,Identify budget cycle and re-engage
+123,123,71.2,Schedule stakeholder consensus meeting
+124,124,60.45,Send updated integration documentation
+125,125,82.65,Confirm final terms with procurement lead
+126,126,39.1,Run account re-engagement campaign
+127,127,79.35,Coordinate compliance documentation review
+128,128,65.8,Deliver product value mapping document
+129,129,75.05,Schedule legal and commercial alignment call
+130,130,51.25,Conduct technical requirements validation
+131,131,88.7,Prepare deal desk submission for approval
+132,132,43.55,Follow up on outstanding stakeholder queries
+133,133,73.1,Deliver tailored competitive battlecard
+134,134,57.85,Schedule implementation scoping session
+135,135,84.15,Obtain final sign-off from CFO
+136,136,46.5,Re-engage with refreshed product demo
+137,137,91.4,Execute master agreement and close
+138,138,67.15,Arrange post-evaluation debrief session
+139,139,76.8,Validate commercial proposal with sponsor
+140,140,53.55,Conduct multi-stakeholder needs review
+141,141,89.05,Finalize partner reseller agreement terms
+142,142,41.8,Qualify budget availability for next quarter
+143,143,74.9,Schedule technical architecture deep dive
+144,144,62.25,Send competitive positioning summary
+145,145,85.5,Confirm purchase approval and timeline
+146,146,47.75,Identify and develop new internal champion
+147,147,92.15,Deliver and negotiate final contract terms
+148,148,66.6,Arrange security compliance sign-off meeting
+149,149,77.35,Validate solution scope with project team
+150,150,52.05,Conduct stakeholder influence mapping
+151,151,87.8,Present updated implementation plan
+152,152,45.15,Re-engage lapsed deal with new use case
+153,153,72.4,Schedule procurement final review session
+154,154,61.85,Deliver updated SLA and support terms
+155,155,83.1,Confirm executive sponsorship for deal
+156,156,40.5,Follow up with new value-based messaging
+157,157,90.75,Coordinate final contract execution steps
+158,158,64.95,Arrange technical integration demo session
+159,159,78.2,Validate implementation timeline with PM
+160,160,55.4,Conduct formal proposal walkthrough
+161,161,88.45,Prepare and submit pricing approval request
+162,162,43.1,Schedule discovery call with new stakeholder
+163,163,73.85,Deliver updated solution architecture doc
+164,164,60.1,Arrange customer reference site visit
+165,165,84.6,Confirm contract terms with legal counsel
+166,166,47.35,Re-engage with product innovation briefing
+167,167,91.25,Execute final order form and obtain PO
+168,168,65.5,Schedule enablement and training planning
+169,169,76.95,Validate final pricing with finance team
+170,170,52.3,Conduct risk and mitigation review session
+171,171,87.05,Present board-approved commercial proposal
+172,172,44.4,Identify expansion opportunity in account
+173,173,72.15,Schedule partner co-sell alignment meeting
+174,174,59.6,Send updated data processing agreement
+175,175,83.75,Confirm go-live date with implementation lead
+176,176,39.45,Qualify inbound interest from new contact
+177,177,80.5,Deliver executive presentation for approval
+178,178,66.25,Arrange product integration testing session
+179,179,77,Validate contract terms with legal team
+180,180,53.8,Conduct business case validation workshop
+181,181,89.25,Finalize enterprise license agreement terms
+182,182,42.55,Re-engage with updated industry insights
+183,183,74.2,Schedule final commercial review session
+184,184,61.05,Send implementation resource plan
+185,185,85.9,Confirm board-level approval for renewal
+186,186,48.3,Follow up on pending security review
+187,187,92.6,Coordinate contract countersignature process
+188,188,67.45,Arrange technical readiness review session
+189,189,76.55,Validate pilot success metrics with client
+190,190,54.2,Conduct formal procurement alignment session
+191,191,88.15,Prepare and deliver final executive briefing
+192,192,41.35,Identify new budget owner and re-engage
+193,193,73.6,Schedule multi-stakeholder consensus call
+194,194,60.8,Deliver competitive differentiation analysis
+195,195,84.35,Confirm final commercial approval from VP
+196,196,46.75,Re-engage with refreshed ROI business case
+197,197,91.8,Execute final contract and process order
+198,198,65.05,Schedule post-close onboarding planning
+199,199,77.5,Validate final solution scope with CTO
+200,200,51.55,Conduct formal deal review with sales team

@@ -1,0 +1,501 @@
+activity_id,deal_id,activity_type,activity_date,notes
+1,8,Legal Review,01/10/2024 17:07,Legal review completed; two clauses require negotiation.
+2,15,Proposal Sent,2/24/2024 4:35,Sent detailed proposal with three pricing tiers.
+3,48,Reference Call,12/12/2024 11:42,Reference call completed; prospect ready to move to contract.
+4,38,Call Outbound,06/12/2024 20:35,Called to confirm next steps after proposal submission.
+5,6,Email Sent,3/25/2024 21:51,Emailed pricing proposal to procurement contact.
+6,39,Product Walkthrough,01/11/2024 07:19,Walkthrough tailored to use cases outlined in RFP.
+7,46,Demo Conducted,09/09/2024 09:21,Demo session with 8 attendees; follow-up Q&A scheduled.
+8,15,Executive Briefing,6/23/2024 10:55,Strategic alignment session with VP and SVP stakeholders.
+9,1,Contract Sent,10/21/2024 16:35,Forwarded standard contract with custom addendums included.
+10,28,Onboarding Kickoff,05/12/2024 03:21,Onboarding kickoff held; project milestones and owners confirmed.
+11,14,Meeting Scheduled,01/06/2025 17:52,Set up technical deep-dive with IT and security teams.
+12,6,Call Inbound,5/27/2024 13:10,Prospect called to ask technical questions about integrations.
+13,23,Negotiation Call,8/22/2024 11:08,Price negotiation call; exploring volume-based pricing.
+14,3,Stage Advanced,10/10/2024 09:35,Deal progressed to Contract stage; all stakeholders aligned.
+15,8,POC Initiated,01/12/2025 22:05,POC launched with two internal user groups.
+16,36,Call Outbound,4/23/2024 20:37,Followed up on contract redlines sent last week.
+17,24,Timeline Confirmed,08/12/2024 05:18,Timeline locked in; implementation must start within 30 days.
+18,5,Onboarding Kickoff,1/18/2024 19:06,Introduced customer success manager and onboarding plan.
+19,19,Deal Won,1/31/2024 23:42,Closed-won after 4-month sales cycle. Onboarding begins next week.
+20,7,Budget Confirmed,5/27/2024 15:01,Budget confirmed at $120K annual; fits within proposed pricing.
+21,41,Pricing Discussion,11/19/2024 22:28,Pricing call to address budget gap; exploring phased rollout.
+22,24,Meeting Completed,5/17/2024 23:21,Held alignment meeting with all decision-makers present.
+23,18,Reference Call,9/29/2024 13:26,Connected prospect with reference customer in similar industry.
+24,41,Security Review,03/07/2024 11:07,Data privacy and encryption standards reviewed and approved.
+25,16,Deal Lost,03/04/2024 11:01,Deal marked lost; client selected incumbent vendor.
+26,18,Technical Review,12/25/2024 9:16,Technical due diligence session with CTO and engineers.
+27,44,Proposal Sent,05/05/2024 22:32,Sent detailed proposal with three pricing tiers.
+28,3,Proposal Sent,11/08/2024 15:34,Shared commercial proposal following scope confirmation.
+29,18,Technical Review,1/26/2024 16:55,Technical review completed; no blockers identified.
+30,37,Competitor Mentioned,12/06/2024 08:20,Client revealed they have a shortlist including our top competitor.
+31,42,Demo Conducted,07/12/2024 21:10,Custom demo for data analytics team; deep dive into API capabilities.
+32,42,Timeline Confirmed,6/27/2024 4:48,Timeline locked in; implementation must start within 30 days.
+33,9,Contract Sent,04/05/2024 18:44,Sent final contract version after all redlines resolved.
+34,17,POC Initiated,10/17/2024 2:40,Trial account created; training session scheduled for next week.
+35,38,Executive Briefing,06/04/2024 02:40,Executive sponsor meeting; approved moving to final contract stage.
+36,9,Proposal Sent,7/16/2024 21:07,Proposal emailed with executive summary and ROI projections.
+37,49,Call Outbound,1/19/2024 7:09,Called to confirm next steps after proposal submission.
+38,41,Meeting Scheduled,03/03/2024 03:08,Arranged product demo for expanded stakeholder group.
+39,5,Security Review,5/29/2024 10:17,Reviewed SOC 2 Type II report with client's security officer.
+40,30,Security Review,7/24/2024 11:42,Security team approved solution after penetration test review.
+41,1,POC Initiated,9/21/2024 4:42,Proof of concept officially kicked off with IT team.
+42,35,Reference Call,10/18/2024 14:41,Scheduled reference check with two existing enterprise clients.
+43,42,Deal Won,05/12/2024 02:39,Deal officially won! Contract signed and revenue booked.
+44,28,Contract Signed,03/02/2024 10:08,Signed MSA received. Onboarding team notified.
+45,47,Email Sent,12/06/2024 03:32,Shared case study relevant to client's industry.
+46,49,Product Walkthrough,03/10/2024 09:09,Walkthrough tailored to use cases outlined in RFP.
+47,7,Competitor Mentioned,12/04/2024 01:49,Client revealed they have a shortlist including our top competitor.
+48,41,Champion Identified,7/16/2024 3:45,New champion identified after reorganization; re-engaged deal.
+49,10,Demo Conducted,5/25/2024 5:07,Demo focused on automation workflows; impressed by ease of use.
+50,50,POC Initiated,12/24/2024 5:42,Trial account created; training session scheduled for next week.
+51,1,Competitor Mentioned,8/20/2024 14:34,Client revealed they have a shortlist including our top competitor.
+52,2,Stakeholder Meeting,2/13/2024 10:40,Internal champion organized cross-functional review meeting.
+53,20,Timeline Confirmed,04/02/2024 23:51,Client confirmed go-live target is end of Q3.
+54,37,Proposal Sent,01/02/2025 18:12,Sent detailed proposal with three pricing tiers.
+55,47,Call Outbound,07/07/2024 17:45,Called to confirm next steps after proposal submission.
+56,35,Deal Won,10/24/2024 10:05,Closed-won after 4-month sales cycle. Onboarding begins next week.
+57,43,Meeting Scheduled,07/03/2024 13:57,Confirmed QBR with existing account team.
+58,17,Meeting Completed,7/23/2024 22:16,Executive briefing went well; sponsor requested ROI model.
+59,14,Executive Briefing,12/26/2024 18:06,Strategic alignment session with VP and SVP stakeholders.
+60,47,Deal Won,9/24/2024 22:01,Closed-won after 4-month sales cycle. Onboarding begins next week.
+61,20,Onboarding Kickoff,06/03/2024 22:52,Onboarding kickoff held; project milestones and owners confirmed.
+62,34,Pricing Discussion,6/24/2024 8:09,Reviewed enterprise licensing model; client wants per-seat pricing.
+63,15,Proposal Sent,1/25/2024 20:45,Shared commercial proposal following scope confirmation.
+64,38,Email Sent,08/03/2024 02:55,Emailed pricing proposal to procurement contact.
+65,15,POC Completed,01/03/2024 19:01,POC concluded successfully; client met all evaluation KPIs.
+66,41,Onboarding Kickoff,1/23/2024 20:44,Introduced customer success manager and onboarding plan.
+67,3,Call Outbound,11/29/2024 20:22,Cold call to new stakeholder identified in org chart.
+68,33,Call Outbound,04/02/2024 10:21,Cold call to new stakeholder identified in org chart.
+69,32,Reference Call,3/24/2024 4:49,Reference call completed; prospect ready to move to contract.
+70,47,Meeting Scheduled,12/29/2024 7:37,Confirmed QBR with existing account team.
+71,31,POC Completed,04/04/2024 08:53,Evaluation complete; champion presented results to leadership.
+72,27,Stage Advanced,3/14/2024 22:44,Deal advanced from Discovery to Qualification stage.
+73,43,Call Inbound,6/16/2024 9:41,Client called to discuss concerns about implementation timeline.
+74,27,Executive Briefing,6/30/2024 8:59,Executive briefing with C-suite; strong strategic alignment noted.
+75,42,Reference Call,09/07/2024 22:49,Connected prospect with reference customer in similar industry.
+76,26,Email Received,10/09/2024 19:26,Received RFP document from procurement team.
+77,7,Stage Advanced,04/06/2024 13:38,Moved to Proposal stage after successful demo.
+78,35,Demo Conducted,6/23/2024 5:22,Demo focused on automation workflows; impressed by ease of use.
+79,12,Executive Briefing,4/18/2024 4:13,Briefed CEO and COO on partnership roadmap.
+80,5,Proposal Sent,6/21/2024 2:16,Sent revised proposal incorporating feedback from last call.
+81,4,Call Inbound,09/10/2024 06:25,Prospect called to confirm vendor shortlist status.
+82,1,Champion Identified,01/11/2025 07:41,Identified VP of Operations as internal champion.
+83,49,Competitor Mentioned,11/25/2024 14:25,Competitor HubSpot mentioned during discovery; addressed key differentiators.
+84,27,Meeting Completed,07/07/2024 14:30,Completed retrospective meeting post-pilot evaluation.
+85,26,Demo Conducted,12/16/2024 11:22,Conducted live product demo; strong positive feedback on reporting module.
+86,25,Meeting Completed,01/01/2024 20:05,Completed retrospective meeting post-pilot evaluation.
+87,30,Contract Sent,4/20/2024 18:42,MSA and DPA sent to procurement for approval.
+88,47,Onboarding Kickoff,10/31/2024 5:27,Implementation roadmap reviewed and signed off during kickoff.
+89,46,Reference Call,07/08/2024 00:06,Reference call went well; customer shared strong success story.
+90,19,Demo Conducted,3/25/2024 13:07,Conducted live product demo; strong positive feedback on reporting module.
+91,48,POC Completed,7/29/2024 13:37,POC concluded successfully; client met all evaluation KPIs.
+92,21,Deal Lost,1/23/2024 4:49,Deal lost to competitor; client cited lower pricing as key factor.
+93,31,POC Completed,7/14/2024 6:54,POC wrap-up meeting held; two minor concerns addressed.
+94,4,Meeting Completed,01/08/2025 03:06,Executive briefing went well; sponsor requested ROI model.
+95,12,Call Outbound,1/27/2024 14:39,Followed up on contract redlines sent last week.
+96,44,Call Outbound,11/30/2024 16:44,Reached out to re-engage after two weeks of silence.
+97,8,Technical Review,12/31/2024 16:18,Technical due diligence session with CTO and engineers.
+98,38,Proposal Sent,8/18/2024 21:19,Sent detailed proposal with three pricing tiers.
+99,6,Security Review,06/11/2024 19:27,Data privacy and encryption standards reviewed and approved.
+100,34,POC Completed,05/02/2024 20:46,POC results reviewed in debrief; moving to commercial stage.
+101,43,Demo Conducted,10/05/2024 03:23,Delivered tailored demo addressing industry-specific use cases.
+102,17,Proposal Sent,06/02/2024 16:59,Submitted formal proposal including implementation plan and timeline.
+103,42,Reference Call,4/26/2024 12:10,Post-reference call feedback positive; buying committee impressed.
+104,49,Follow-up Sent,12/29/2024 9:40,Sent follow-up summarizing key meeting takeaways.
+105,30,Email Sent,8/29/2024 5:37,Forwarded updated SLA documentation as requested.
+106,5,Call Inbound,7/27/2024 19:06,Received call from champion with positive update from internal review.
+107,17,Product Walkthrough,2/21/2024 10:35,Product walkthrough focused on compliance and audit capabilities.
+108,5,Timeline Confirmed,12/07/2024 11:23,Timeline locked in; implementation must start within 30 days.
+109,19,Negotiation Call,03/02/2024 06:18,Call to resolve final commercial blockers before signing.
+110,35,Champion Identified,9/30/2024 5:28,Senior Manager emerged as key champion during stakeholder review.
+111,42,Security Review,7/24/2024 10:05,Security questionnaire submitted and reviewed by client's InfoSec.
+112,36,Reference Call,4/26/2024 6:24,Connected prospect with reference customer in similar industry.
+113,9,Timeline Confirmed,04/12/2024 17:00,Client confirmed go-live target is end of Q3.
+114,7,Timeline Confirmed,10/15/2024 7:49,Both parties agreed on contract start date of first of next month.
+115,18,Meeting Scheduled,4/19/2024 10:09,Confirmed QBR with existing account team.
+116,46,Demo Conducted,5/13/2024 3:52,Demo focused on automation workflows; impressed by ease of use.
+117,41,Reference Call,11/27/2024 5:43,Scheduled reference check with two existing enterprise clients.
+118,32,Product Walkthrough,04/07/2024 12:37,Walked through core features; prospect highlighted dashboard as priority.
+119,41,Call Outbound,6/13/2024 12:00,Cold call to new stakeholder identified in org chart.
+120,1,Email Received,05/09/2024 12:58,Client replied requesting revised pricing structure.
+121,17,Legal Review,03/03/2024 18:03,Responded to legal comments on liability and indemnification.
+122,46,POC Initiated,6/15/2024 2:19,Trial account created; training session scheduled for next week.
+123,8,Email Sent,1/30/2024 5:19,Emailed pricing proposal to procurement contact.
+124,3,POC Initiated,11/20/2024 2:59,Started 30-day trial with defined evaluation benchmarks.
+125,36,POC Completed,2/27/2024 12:20,Evaluation complete; champion presented results to leadership.
+126,3,Meeting Scheduled,4/29/2024 17:10,Set up technical deep-dive with IT and security teams.
+127,3,Timeline Confirmed,12/15/2024 2:35,Agreed on 90-day implementation schedule with milestones.
+128,44,Demo Conducted,04/06/2024 21:47,Conducted live product demo; strong positive feedback on reporting module.
+129,50,Negotiation Call,08/05/2024 10:29,Call to resolve final commercial blockers before signing.
+130,48,Security Review,03/01/2024 00:32,Completed vendor security assessment; no critical findings.
+131,11,Budget Confirmed,1/14/2025 2:53,Finance team confirmed funding availability for Q3 close.
+132,27,Timeline Confirmed,01/10/2024 15:01,Timeline locked in; implementation must start within 30 days.
+133,22,Deal Lost,10/30/2024 20:22,Deal marked lost; client selected incumbent vendor.
+134,43,Stage Advanced,12/01/2024 13:39,Moved to Proposal stage after successful demo.
+135,11,Contract Sent,11/01/2024 18:51,Master service agreement sent to legal team for review.
+136,3,Technical Review,11/29/2024 10:40,Reviewed data migration approach and timelines.
+137,13,Proposal Sent,11/13/2024 3:08,Proposal emailed with executive summary and ROI projections.
+138,20,Negotiation Call,11/14/2024 15:57,Negotiated payment terms; client requested quarterly billing.
+139,2,Proposal Sent,9/13/2024 7:57,Submitted formal proposal including implementation plan and timeline.
+140,22,Technical Review,4/18/2024 4:46,Security and IT team reviewed architecture documentation.
+141,18,Deal Won,5/16/2024 8:55,Won deal; client committed to 3-year enterprise agreement.
+142,44,Technical Review,11/23/2024 15:29,Technical due diligence session with CTO and engineers.
+143,2,Follow-up Sent,2/14/2024 19:03,Sent check-in message after two weeks of no response.
+144,38,Meeting Completed,01/08/2025 19:28,Finished 90-minute onsite visit; very engaged team.
+145,7,Email Received,8/19/2024 16:26,Prospect asked for references from similar companies.
+146,47,Negotiation Call,11/01/2024 10:02,Price negotiation call; exploring volume-based pricing.
+147,39,Executive Briefing,7/17/2024 14:48,Executive briefing with C-suite; strong strategic alignment noted.
+148,37,Technical Review,3/14/2024 19:39,Conducted API compatibility review with client's dev team.
+149,46,Email Received,6/18/2024 8:21,Received positive response; prospect interested in scheduling demo.
+150,35,Product Walkthrough,9/23/2024 17:58,In-depth walkthrough of analytics module with data team.
+151,28,Negotiation Call,1/28/2024 4:12,Price negotiation call; exploring volume-based pricing.
+152,21,Security Review,9/14/2024 15:13,Security questionnaire submitted and reviewed by client's InfoSec.
+153,20,Deal Lost,7/15/2024 22:43,Lost deal after final evaluation; integration complexity cited.
+154,27,Reference Call,05/06/2024 16:14,Post-reference call feedback positive; buying committee impressed.
+155,19,Onboarding Kickoff,08/03/2024 07:29,Introduced customer success manager and onboarding plan.
+156,27,Demo Conducted,9/15/2024 5:35,Custom demo for data analytics team; deep dive into API capabilities.
+157,48,Reference Call,12/16/2024 14:45,Reference call went well; customer shared strong success story.
+158,37,Security Review,4/26/2024 21:03,Reviewed SOC 2 Type II report with client's security officer.
+159,1,POC Initiated,4/28/2024 0:19,Started 30-day trial with defined evaluation benchmarks.
+160,28,Demo Conducted,11/01/2024 03:48,Demo session with 8 attendees; follow-up Q&A scheduled.
+161,42,Security Review,05/05/2024 03:34,Reviewed SOC 2 Type II report with client's security officer.
+162,29,Pricing Discussion,9/19/2024 9:18,Discussed multi-year discount scenarios with finance contact.
+163,31,Product Walkthrough,11/04/2024 06:09,In-depth walkthrough of analytics module with data team.
+164,6,Reference Call,4/20/2024 5:04,Reference call completed; prospect ready to move to contract.
+165,41,Reference Call,8/28/2024 11:55,Scheduled reference check with two existing enterprise clients.
+166,49,Call Outbound,04/01/2024 05:08,Cold call to new stakeholder identified in org chart.
+167,13,Proposal Sent,2/27/2024 5:26,Sent detailed proposal with three pricing tiers.
+168,16,Email Received,07/03/2024 12:35,Client confirmed attendance for the executive briefing.
+169,50,Budget Confirmed,1/29/2024 6:48,Procurement confirmed budget line item exists for this project.
+170,41,Executive Briefing,08/11/2024 13:38,Presented ROI model to CFO; received favorable feedback.
+171,45,Onboarding Kickoff,5/29/2024 2:56,Kickoff session with 10 client team members; strong engagement.
+172,16,Technical Review,2/27/2024 7:27,Security and IT team reviewed architecture documentation.
+173,49,Timeline Confirmed,11/30/2024 3:53,Client confirmed go-live target is end of Q3.
+174,28,Deal Won,3/25/2024 23:44,Closed-won after 4-month sales cycle. Onboarding begins next week.
+175,45,Stage Advanced,7/20/2024 3:42,Deal progressed to Contract stage; all stakeholders aligned.
+176,36,Email Received,04/06/2024 18:41,Received positive response; prospect interested in scheduling demo.
+177,9,Pricing Discussion,11/07/2024 05:44,Walked through pricing tiers and feature bundling options.
+178,34,Reference Call,08/05/2024 01:33,Reference call completed; prospect ready to move to contract.
+179,49,Follow-up Sent,12/12/2024 04:41,Shared meeting recap and attached updated proposal.
+180,47,Security Review,12/12/2024 10:13,Data privacy and encryption standards reviewed and approved.
+181,36,Executive Briefing,6/22/2024 4:12,Presented ROI model to CFO; received favorable feedback.
+182,31,Deal Lost,6/23/2024 18:57,Lost deal after final evaluation; integration complexity cited.
+183,16,Deal Won,11/22/2024 4:05,Won competitive deal; differentiator was enterprise support tier.
+184,50,Deal Won,7/21/2024 10:51,Deal closed successfully; expansion opportunity flagged for Q2.
+185,16,Legal Review,4/16/2024 15:26,Responded to legal comments on liability and indemnification.
+186,46,Call Outbound,4/20/2024 23:10,Reached out to re-engage after two weeks of silence.
+187,22,Contract Sent,05/04/2024 03:54,Sent final contract version after all redlines resolved.
+188,9,Call Outbound,2/28/2024 13:50,Reached out to re-engage after two weeks of silence.
+189,45,Technical Review,2/29/2024 8:14,Technical review completed; no blockers identified.
+190,27,Call Outbound,06/07/2024 07:06,Cold call to new stakeholder identified in org chart.
+191,30,POC Initiated,06/10/2024 11:17,Proof of concept officially kicked off with IT team.
+192,27,Demo Conducted,5/31/2024 6:11,Demo session with 8 attendees; follow-up Q&A scheduled.
+193,2,Onboarding Kickoff,11/28/2024 17:19,Implementation roadmap reviewed and signed off during kickoff.
+194,31,Technical Review,01/03/2024 06:57,Conducted API compatibility review with client's dev team.
+195,49,Contract Signed,5/31/2024 10:56,Signed MSA received. Onboarding team notified.
+196,48,POC Initiated,10/12/2024 07:17,Trial account created; training session scheduled for next week.
+197,39,Stage Advanced,12/14/2024 16:12,Moved to Proposal stage after successful demo.
+198,15,Stakeholder Meeting,4/15/2024 23:56,Stakeholder meeting to confirm priorities and success metrics.
+199,2,Stakeholder Meeting,5/31/2024 0:24,Internal champion organized cross-functional review meeting.
+200,44,Reference Call,11/05/2024 23:13,Post-reference call feedback positive; buying committee impressed.
+201,11,Deal Lost,11/22/2024 10:04,Deal marked lost; client selected incumbent vendor.
+202,9,Competitor Mentioned,8/29/2024 15:51,Client mentioned incumbent vendor; highlighted switching benefits.
+203,26,Email Sent,8/17/2024 20:50,Forwarded updated SLA documentation as requested.
+204,2,Reference Call,02/02/2024 14:26,Post-reference call feedback positive; buying committee impressed.
+205,30,Meeting Scheduled,03/11/2024 13:50,Scheduled discovery call with VP of Sales for next Tuesday.
+206,25,Contract Sent,05/07/2024 03:08,Forwarded standard contract with custom addendums included.
+207,21,Pricing Discussion,05/11/2024 01:43,Walked through pricing tiers and feature bundling options.
+208,49,Contract Sent,01/04/2025 09:51,MSA and DPA sent to procurement for approval.
+209,6,Contract Sent,07/01/2024 15:34,Master service agreement sent to legal team for review.
+210,35,Deal Lost,1/21/2024 5:28,Lost deal after final evaluation; integration complexity cited.
+211,42,Proposal Sent,1/27/2024 15:34,Sent detailed proposal with three pricing tiers.
+212,2,Deal Won,01/03/2025 19:01,Closed-won after 4-month sales cycle. Onboarding begins next week.
+213,2,Demo Conducted,8/29/2024 7:16,Demo focused on automation workflows; impressed by ease of use.
+214,9,Proposal Sent,07/02/2024 21:54,Sent detailed proposal with three pricing tiers.
+215,14,POC Completed,6/29/2024 14:25,POC results reviewed in debrief; moving to commercial stage.
+216,24,Deal Won,03/06/2024 03:54,Won deal; client committed to 3-year enterprise agreement.
+217,48,Security Review,10/05/2024 23:34,Security questionnaire submitted and reviewed by client's InfoSec.
+218,11,Deal Won,01/09/2025 15:50,Won competitive deal; differentiator was enterprise support tier.
+219,38,Call Inbound,01/10/2024 23:20,Client called to discuss concerns about implementation timeline.
+220,44,POC Completed,12/18/2024 15:25,Evaluation complete; champion presented results to leadership.
+221,46,Technical Review,3/18/2024 0:34,Security and IT team reviewed architecture documentation.
+222,45,POC Completed,11/18/2024 13:29,30-day trial ended; feedback overwhelmingly positive.
+223,45,Call Inbound,10/27/2024 0:02,Client called to discuss concerns about implementation timeline.
+224,44,Budget Confirmed,8/21/2024 4:14,Champion confirmed budget is approved for this fiscal year.
+225,37,Stage Advanced,10/30/2024 22:41,Deal advanced from Discovery to Qualification stage.
+226,35,Negotiation Call,6/15/2024 8:46,Price negotiation call; exploring volume-based pricing.
+227,33,Call Outbound,09/08/2024 11:32,Cold call to new stakeholder identified in org chart.
+228,27,Email Sent,11/15/2024 8:40,Sent contract draft for legal review.
+229,28,Call Inbound,01/08/2025 03:11,Client called to discuss concerns about implementation timeline.
+230,30,Legal Review,10/01/2024 16:35,Received redlines from client's legal team on MSA.
+231,12,Executive Briefing,10/11/2024 23:28,Strategic alignment session with VP and SVP stakeholders.
+232,18,Legal Review,8/27/2024 4:43,Final legal review underway; expected resolution within 5 days.
+233,31,Deal Won,6/29/2024 12:56,Deal closed successfully; expansion opportunity flagged for Q2.
+234,47,Champion Identified,8/18/2024 2:15,Senior Manager emerged as key champion during stakeholder review.
+235,16,Follow-up Sent,11/18/2024 14:58,Sent follow-up summarizing key meeting takeaways.
+236,29,Contract Sent,04/04/2024 16:58,MSA and DPA sent to procurement for approval.
+237,40,POC Completed,9/16/2024 11:58,Evaluation complete; champion presented results to leadership.
+238,2,Follow-up Sent,07/10/2024 23:16,Sent check-in message after two weeks of no response.
+239,32,Meeting Completed,3/23/2024 9:06,Finished 90-minute onsite visit; very engaged team.
+240,17,Stage Advanced,05/12/2024 04:11,Advanced to Negotiation following proposal acceptance.
+241,39,Timeline Confirmed,9/29/2024 7:30,Agreed on 90-day implementation schedule with milestones.
+242,1,POC Initiated,7/19/2024 15:18,POC environment provisioned; success criteria agreed.
+243,16,Call Outbound,10/06/2024 15:34,Called to discuss budget timeline and approval process.
+244,36,Stakeholder Meeting,10/21/2024 10:36,Stakeholder alignment session with 5 internal champions.
+245,31,Onboarding Kickoff,09/07/2024 20:15,Kickoff session with 10 client team members; strong engagement.
+246,2,Pricing Discussion,02/06/2024 03:19,Pricing call to address budget gap; exploring phased rollout.
+247,26,Proposal Sent,9/25/2024 15:55,Submitted formal proposal including implementation plan and timeline.
+248,43,Contract Signed,8/13/2024 20:29,Legal confirmed all signatures complete. Revenue recognized.
+249,36,Stakeholder Meeting,7/25/2024 4:33,Internal champion organized cross-functional review meeting.
+250,48,Executive Briefing,08/01/2024 17:59,Executive sponsor meeting; approved moving to final contract stage.
+251,45,Negotiation Call,6/25/2024 5:12,Price negotiation call; exploring volume-based pricing.
+252,17,Contract Signed,3/30/2024 12:46,Contract countersigned and returned. Deal officially closed.
+253,13,Deal Lost,05/02/2024 13:07,Deal lost to competitor; client cited lower pricing as key factor.
+254,35,Deal Lost,01/04/2025 06:49,Opportunity closed-lost; prospect chose to delay purchase.
+255,14,Demo Conducted,10/13/2024 20:17,Custom demo for data analytics team; deep dive into API capabilities.
+256,47,Contract Sent,8/16/2024 23:20,Sent final contract version after all redlines resolved.
+257,19,Security Review,02/09/2024 00:58,Completed vendor security assessment; no critical findings.
+258,15,Contract Signed,5/20/2024 3:39,Received signed agreement from both parties. Processing kickoff.
+259,1,Contract Signed,10/01/2024 23:12,All parties signed. Deal marked closed-won in CRM.
+260,18,Meeting Scheduled,1/18/2024 16:14,Scheduled discovery call with VP of Sales for next Tuesday.
+261,19,POC Initiated,9/27/2024 20:24,POC environment provisioned; success criteria agreed.
+262,49,Legal Review,07/09/2024 15:19,Legal team reviewing DPA and data residency clauses.
+263,1,Budget Confirmed,08/10/2024 22:39,Budget confirmed at $120K annual; fits within proposed pricing.
+264,31,Stakeholder Meeting,6/20/2024 1:28,Internal champion organized cross-functional review meeting.
+265,4,Meeting Completed,04/08/2024 01:16,Completed retrospective meeting post-pilot evaluation.
+266,5,Call Inbound,06/04/2024 14:51,Inbound call from procurement requesting updated SOW.
+267,37,Call Outbound,09/01/2024 10:51,Called to confirm next steps after proposal submission.
+268,10,Meeting Scheduled,11/11/2024 00:23,Confirmed QBR with existing account team.
+269,6,Contract Signed,04/06/2024 09:18,Contract countersigned and returned. Deal officially closed.
+270,49,POC Initiated,06/10/2024 15:01,Trial account created; training session scheduled for next week.
+271,40,Security Review,3/28/2024 15:33,Data privacy and encryption standards reviewed and approved.
+272,29,Technical Review,12/18/2024 19:52,Reviewed data migration approach and timelines.
+273,38,Contract Signed,6/15/2024 12:59,Legal confirmed all signatures complete. Revenue recognized.
+274,40,POC Completed,1/24/2024 9:23,POC wrap-up meeting held; two minor concerns addressed.
+275,7,Deal Lost,01/03/2025 00:10,Opportunity closed-lost; prospect chose to delay purchase.
+276,14,Legal Review,04/12/2024 18:40,Legal team reviewing DPA and data residency clauses.
+277,16,Meeting Completed,03/08/2024 12:03,Executive briefing went well; sponsor requested ROI model.
+278,11,Call Outbound,01/02/2024 00:56,Called to discuss budget timeline and approval process.
+279,45,Pricing Discussion,8/18/2024 14:43,Walked through pricing tiers and feature bundling options.
+280,3,Contract Signed,3/30/2024 21:30,Legal confirmed all signatures complete. Revenue recognized.
+281,19,Onboarding Kickoff,9/30/2024 0:19,Kickoff session with 10 client team members; strong engagement.
+282,44,Call Outbound,3/31/2024 15:40,Cold call to new stakeholder identified in org chart.
+283,41,Stage Advanced,8/17/2024 1:14,Moved to Proposal stage after successful demo.
+284,8,Executive Briefing,7/30/2024 11:41,Presented ROI model to CFO; received favorable feedback.
+285,10,Legal Review,12/18/2024 19:00,Legal review completed; two clauses require negotiation.
+286,10,Champion Identified,1/28/2024 17:35,Identified VP of Operations as internal champion.
+287,20,Meeting Completed,8/19/2024 2:12,Executive briefing went well; sponsor requested ROI model.
+288,19,Competitor Mentioned,6/19/2024 13:12,Prospect mentioned they are also evaluating Salesforce.
+289,45,Pricing Discussion,4/28/2024 2:20,Walked through pricing tiers and feature bundling options.
+290,33,Contract Sent,7/28/2024 16:59,MSA and DPA sent to procurement for approval.
+291,6,Pricing Discussion,8/20/2024 6:06,Reviewed enterprise licensing model; client wants per-seat pricing.
+292,28,Timeline Confirmed,10/12/2024 06:21,Agreed on 90-day implementation schedule with milestones.
+293,17,Security Review,01/11/2024 01:04,Security questionnaire submitted and reviewed by client's InfoSec.
+294,44,Proposal Sent,11/20/2024 15:41,Sent revised proposal incorporating feedback from last call.
+295,2,POC Completed,10/24/2024 0:05,POC results reviewed in debrief; moving to commercial stage.
+296,3,POC Completed,10/23/2024 8:41,30-day trial ended; feedback overwhelmingly positive.
+297,34,Stakeholder Meeting,09/10/2024 00:30,Stakeholder meeting to confirm priorities and success metrics.
+298,18,Competitor Mentioned,03/11/2024 11:36,Client mentioned incumbent vendor; highlighted switching benefits.
+299,41,Executive Briefing,11/12/2024 05:18,Briefed CEO and COO on partnership roadmap.
+300,31,Call Outbound,5/15/2024 3:13,Called to discuss budget timeline and approval process.
+301,21,Follow-up Sent,9/17/2024 6:05,Sent follow-up summarizing key meeting takeaways.
+302,11,Budget Confirmed,05/08/2024 01:59,Procurement confirmed budget line item exists for this project.
+303,32,Onboarding Kickoff,4/21/2024 22:23,Kickoff session with 10 client team members; strong engagement.
+304,49,Champion Identified,08/01/2024 15:16,Identified VP of Operations as internal champion.
+305,6,Pricing Discussion,05/02/2024 03:30,Pricing call to address budget gap; exploring phased rollout.
+306,8,Follow-up Sent,01/11/2025 18:46,Shared meeting recap and attached updated proposal.
+307,33,Budget Confirmed,11/16/2024 8:52,Champion confirmed budget is approved for this fiscal year.
+308,35,Reference Call,6/28/2024 9:55,Post-reference call feedback positive; buying committee impressed.
+309,13,Email Received,7/20/2024 8:12,Received RFP document from procurement team.
+310,49,Security Review,07/12/2024 14:17,Reviewed SOC 2 Type II report with client's security officer.
+311,4,Deal Won,3/20/2024 1:18,Won competitive deal; differentiator was enterprise support tier.
+312,9,POC Initiated,12/26/2024 6:32,Started 30-day trial with defined evaluation benchmarks.
+313,45,Pricing Discussion,07/07/2024 05:50,Reviewed enterprise licensing model; client wants per-seat pricing.
+314,41,Email Sent,8/24/2024 11:05,Emailed pricing proposal to procurement contact.
+315,11,Onboarding Kickoff,4/30/2024 16:24,Implementation roadmap reviewed and signed off during kickoff.
+316,36,Email Sent,06/07/2024 10:44,Sent follow-up email with product overview deck attached.
+317,8,Proposal Sent,6/28/2024 5:00,Sent detailed proposal with three pricing tiers.
+318,10,Legal Review,07/12/2024 13:11,Legal review completed; two clauses require negotiation.
+319,46,Product Walkthrough,4/16/2024 4:30,Showed new Q3 features during scheduled product update call.
+320,31,Champion Identified,07/02/2024 09:24,Director of IT confirmed as primary advocate for the solution.
+321,36,Pricing Discussion,2/26/2024 4:09,Walked through pricing tiers and feature bundling options.
+322,39,Demo Conducted,7/16/2024 9:08,Demo focused on automation workflows; impressed by ease of use.
+323,5,Budget Confirmed,4/17/2024 6:48,Procurement confirmed budget line item exists for this project.
+324,33,Follow-up Sent,4/13/2024 18:13,Sent follow-up summarizing key meeting takeaways.
+325,47,Contract Signed,4/25/2024 22:44,All parties signed. Deal marked closed-won in CRM.
+326,43,POC Completed,07/09/2024 03:46,30-day trial ended; feedback overwhelmingly positive.
+327,35,Pricing Discussion,07/07/2024 02:23,Pricing call to address budget gap; exploring phased rollout.
+328,36,Follow-up Sent,10/23/2024 6:29,Follow-up sent with additional reference customers.
+329,30,Technical Review,12/28/2024 6:48,Conducted API compatibility review with client's dev team.
+330,13,Budget Confirmed,9/27/2024 21:09,Finance team confirmed funding availability for Q3 close.
+331,25,POC Completed,3/31/2024 16:57,Evaluation complete; champion presented results to leadership.
+332,21,Email Received,10/16/2024 5:09,Prospect asked for references from similar companies.
+333,25,Onboarding Kickoff,5/29/2024 22:30,Introduced customer success manager and onboarding plan.
+334,3,Stakeholder Meeting,2/19/2024 0:42,Introduced solution to new VP stakeholder added to deal.
+335,22,POC Completed,12/03/2024 18:11,POC concluded successfully; client met all evaluation KPIs.
+336,29,Budget Confirmed,02/08/2024 17:22,CFO approved budget allocation; deal can proceed to contract.
+337,30,Competitor Mentioned,01/06/2024 23:02,Competitor HubSpot mentioned during discovery; addressed key differentiators.
+338,42,Executive Briefing,01/11/2025 16:39,Presented ROI model to CFO; received favorable feedback.
+339,31,Call Outbound,10/30/2024 12:20,Cold call to new stakeholder identified in org chart.
+340,40,Follow-up Sent,9/26/2024 0:28,Shared meeting recap and attached updated proposal.
+341,6,Legal Review,11/26/2024 19:01,Legal review completed; two clauses require negotiation.
+342,44,Budget Confirmed,11/29/2024 17:38,CFO approved budget allocation; deal can proceed to contract.
+343,21,Technical Review,8/31/2024 10:11,Reviewed data migration approach and timelines.
+344,35,Budget Confirmed,1/14/2024 22:36,CFO approved budget allocation; deal can proceed to contract.
+345,16,Call Outbound,09/02/2024 02:50,Cold call to new stakeholder identified in org chart.
+346,48,Proposal Sent,02/05/2024 02:23,Proposal emailed with executive summary and ROI projections.
+347,49,Call Inbound,09/03/2024 02:57,Prospect called to ask technical questions about integrations.
+348,11,Pricing Discussion,9/26/2024 12:33,Pricing call to address budget gap; exploring phased rollout.
+349,2,Timeline Confirmed,1/18/2024 20:40,Agreed on 90-day implementation schedule with milestones.
+350,4,Stage Advanced,4/23/2024 22:23,Advanced to Negotiation following proposal acceptance.
+351,28,Negotiation Call,2/26/2024 12:48,Negotiated payment terms; client requested quarterly billing.
+352,27,Product Walkthrough,08/07/2024 18:49,In-depth walkthrough of analytics module with data team.
+353,12,Meeting Completed,1/31/2024 16:02,Executive briefing went well; sponsor requested ROI model.
+354,25,Budget Confirmed,8/28/2024 16:07,Finance team confirmed funding availability for Q3 close.
+355,38,Stakeholder Meeting,2/25/2024 13:57,Stakeholder alignment session with 5 internal champions.
+356,41,Pricing Discussion,04/08/2024 15:14,Walked through pricing tiers and feature bundling options.
+357,43,Contract Sent,01/04/2024 15:35,MSA and DPA sent to procurement for approval.
+358,19,Timeline Confirmed,9/20/2024 3:47,Both parties agreed on contract start date of first of next month.
+359,5,Meeting Completed,6/20/2024 13:13,Finished 90-minute onsite visit; very engaged team.
+360,20,POC Completed,09/05/2024 03:20,Evaluation complete; champion presented results to leadership.
+361,17,Onboarding Kickoff,6/26/2024 10:01,Onboarding kickoff held; project milestones and owners confirmed.
+362,25,Demo Conducted,11/27/2024 9:39,Custom demo for data analytics team; deep dive into API capabilities.
+363,16,Call Inbound,5/28/2024 2:34,Prospect called to confirm vendor shortlist status.
+364,37,Negotiation Call,4/24/2024 21:43,Price negotiation call; exploring volume-based pricing.
+365,43,Email Sent,06/02/2024 17:10,Shared case study relevant to client's industry.
+366,37,Email Sent,12/01/2024 23:00,Sent follow-up email with product overview deck attached.
+367,39,Competitor Mentioned,10/16/2024 9:30,Competitor pricing shared by prospect; repositioned value story.
+368,19,Champion Identified,10/28/2024 6:25,Director of IT confirmed as primary advocate for the solution.
+369,23,Security Review,3/26/2024 1:16,Completed vendor security assessment; no critical findings.
+370,17,Security Review,9/20/2024 5:13,Completed vendor security assessment; no critical findings.
+371,7,Legal Review,12/16/2024 20:19,Legal team reviewing DPA and data residency clauses.
+372,29,Contract Signed,1/13/2024 22:58,All parties signed. Deal marked closed-won in CRM.
+373,47,Negotiation Call,2/21/2024 0:50,Discussed discount structure; agreed on 12% off list price.
+374,19,Competitor Mentioned,05/06/2024 21:14,Competitor pricing shared by prospect; repositioned value story.
+375,13,Meeting Completed,2/21/2024 7:49,Executive briefing went well; sponsor requested ROI model.
+376,24,Timeline Confirmed,7/25/2024 3:54,Both parties agreed on contract start date of first of next month.
+377,18,Competitor Mentioned,11/18/2024 12:33,Competitor HubSpot mentioned during discovery; addressed key differentiators.
+378,31,Contract Sent,01/10/2025 16:40,Contract sent with net-30 payment terms as agreed.
+379,22,Deal Lost,11/08/2024 07:59,Deal lost to competitor; client cited lower pricing as key factor.
+380,5,Pricing Discussion,2/24/2024 15:57,Discussed multi-year discount scenarios with finance contact.
+381,44,Budget Confirmed,10/08/2024 06:11,Procurement confirmed budget line item exists for this project.
+382,36,Budget Confirmed,5/22/2024 1:16,Champion confirmed budget is approved for this fiscal year.
+383,26,Stage Advanced,01/06/2024 09:43,Advanced to Negotiation following proposal acceptance.
+384,8,POC Initiated,6/25/2024 14:54,Started 30-day trial with defined evaluation benchmarks.
+385,48,Reference Call,9/18/2024 2:40,Scheduled reference check with two existing enterprise clients.
+386,25,POC Completed,11/15/2024 9:29,POC results reviewed in debrief; moving to commercial stage.
+387,44,Call Inbound,3/31/2024 19:22,Inbound call from procurement requesting updated SOW.
+388,40,Email Sent,12/09/2024 09:39,Forwarded updated SLA documentation as requested.
+389,40,Follow-up Sent,3/26/2024 23:17,Sent follow-up summarizing key meeting takeaways.
+390,30,Legal Review,12/19/2024 4:06,Legal review completed; two clauses require negotiation.
+391,27,Legal Review,2/15/2024 7:29,Received redlines from client's legal team on MSA.
+392,3,Email Received,4/28/2024 4:53,Prospect asked for references from similar companies.
+393,7,Call Inbound,04/01/2024 04:29,Prospect called to confirm vendor shortlist status.
+394,25,Meeting Scheduled,6/25/2024 4:15,Set up technical deep-dive with IT and security teams.
+395,48,Reference Call,9/27/2024 11:42,Reference call completed; prospect ready to move to contract.
+396,38,Executive Briefing,10/15/2024 6:26,Presented ROI model to CFO; received favorable feedback.
+397,27,Timeline Confirmed,09/11/2024 08:18,Client confirmed go-live target is end of Q3.
+398,32,Champion Identified,8/27/2024 2:17,Champion confirmed; actively promoting internally to exec team.
+399,3,Contract Sent,9/25/2024 1:52,Contract sent with net-30 payment terms as agreed.
+400,29,Demo Conducted,6/21/2024 16:51,Demo focused on automation workflows; impressed by ease of use.
+401,24,Budget Confirmed,02/08/2024 14:03,Budget confirmed at $120K annual; fits within proposed pricing.
+402,42,POC Initiated,5/19/2024 7:04,Proof of concept officially kicked off with IT team.
+403,18,Technical Review,3/14/2024 17:08,Security and IT team reviewed architecture documentation.
+404,30,Budget Confirmed,02/05/2024 14:27,Finance team confirmed funding availability for Q3 close.
+405,41,Legal Review,8/19/2024 21:48,Legal team reviewing DPA and data residency clauses.
+406,22,Email Received,04/04/2024 14:13,Client replied requesting revised pricing structure.
+407,37,Stage Advanced,3/20/2024 16:39,Deal advanced from Discovery to Qualification stage.
+408,49,Champion Identified,08/03/2024 05:35,Director of IT confirmed as primary advocate for the solution.
+409,14,POC Completed,11/11/2024 18:12,30-day trial ended; feedback overwhelmingly positive.
+410,50,Follow-up Sent,2/27/2024 7:18,Follow-up sent with additional reference customers.
+411,18,Email Sent,11/29/2024 8:55,Emailed pricing proposal to procurement contact.
+412,35,Meeting Scheduled,04/07/2024 08:15,Booked executive sponsor meeting for end of quarter.
+413,43,Call Inbound,12/02/2024 11:52,Prospect called to ask technical questions about integrations.
+414,1,Meeting Scheduled,5/19/2024 3:03,Booked executive sponsor meeting for end of quarter.
+415,21,POC Completed,01/07/2024 03:05,30-day trial ended; feedback overwhelmingly positive.
+416,4,Contract Sent,2/19/2024 5:28,MSA and DPA sent to procurement for approval.
+417,8,Product Walkthrough,10/16/2024 14:06,Walked through core features; prospect highlighted dashboard as priority.
+418,29,Stakeholder Meeting,10/29/2024 3:38,Internal champion organized cross-functional review meeting.
+419,38,Product Walkthrough,02/12/2024 08:27,Showed new Q3 features during scheduled product update call.
+420,15,Product Walkthrough,01/02/2025 03:54,Walkthrough tailored to use cases outlined in RFP.
+421,47,Email Received,10/31/2024 4:12,Client confirmed attendance for the executive briefing.
+422,30,Contract Signed,09/06/2024 20:22,Contract countersigned and returned. Deal officially closed.
+423,31,Email Received,11/25/2024 1:23,Prospect asked for references from similar companies.
+424,44,Executive Briefing,02/11/2024 22:16,Briefed CEO and COO on partnership roadmap.
+425,29,Onboarding Kickoff,1/29/2024 12:58,Kickoff call with client's implementation team completed.
+426,39,Follow-up Sent,2/27/2024 14:34,Sent follow-up summarizing key meeting takeaways.
+427,18,Meeting Scheduled,8/30/2024 11:03,Confirmed QBR with existing account team.
+428,46,POC Initiated,05/06/2024 06:56,POC launched with two internal user groups.
+429,34,Security Review,4/24/2024 12:38,Reviewed SOC 2 Type II report with client's security officer.
+430,39,Product Walkthrough,6/16/2024 1:44,Walked through core features; prospect highlighted dashboard as priority.
+431,45,Stage Advanced,2/14/2024 10:24,Opportunity moved to Closed stage pending final signature.
+432,14,Deal Lost,6/16/2024 0:32,Deal marked lost; client selected incumbent vendor.
+433,15,Timeline Confirmed,06/09/2024 17:01,Agreed on 90-day implementation schedule with milestones.
+434,30,Champion Identified,06/03/2024 20:26,Champion confirmed; actively promoting internally to exec team.
+435,7,Deal Lost,05/01/2024 09:09,Deal marked lost; client selected incumbent vendor.
+436,43,Follow-up Sent,04/08/2024 23:44,Sent check-in message after two weeks of no response.
+437,44,Meeting Scheduled,12/24/2024 10:50,Arranged product demo for expanded stakeholder group.
+438,6,Call Outbound,11/19/2024 0:40,Called to confirm next steps after proposal submission.
+439,28,Call Outbound,02/07/2024 12:02,Cold call to new stakeholder identified in org chart.
+440,9,Stage Advanced,08/04/2024 01:45,Deal advanced from Discovery to Qualification stage.
+441,36,POC Completed,08/06/2024 03:16,POC results reviewed in debrief; moving to commercial stage.
+442,8,Reference Call,06/08/2024 13:00,Scheduled reference check with two existing enterprise clients.
+443,43,Budget Confirmed,12/31/2024 11:57,Procurement confirmed budget line item exists for this project.
+444,47,Budget Confirmed,1/20/2024 23:30,Budget confirmed at $120K annual; fits within proposed pricing.
+445,20,Security Review,5/16/2024 13:34,Security questionnaire submitted and reviewed by client's InfoSec.
+446,33,POC Completed,3/23/2024 14:52,30-day trial ended; feedback overwhelmingly positive.
+447,31,Reference Call,3/28/2024 2:06,Connected prospect with reference customer in similar industry.
+448,36,Negotiation Call,5/22/2024 17:55,Discussed discount structure; agreed on 12% off list price.
+449,18,Deal Won,08/10/2024 22:59,Closed-won after 4-month sales cycle. Onboarding begins next week.
+450,28,Stage Advanced,11/24/2024 5:25,Opportunity moved to Closed stage pending final signature.
+451,40,Deal Won,8/26/2024 6:55,Won deal; client committed to 3-year enterprise agreement.
+452,39,Email Sent,12/26/2024 19:41,Shared case study relevant to client's industry.
+453,12,Email Sent,4/16/2024 3:03,Shared case study relevant to client's industry.
+454,22,Competitor Mentioned,5/16/2024 7:46,Prospect mentioned they are also evaluating Salesforce.
+455,10,Meeting Completed,08/07/2024 22:29,Completed retrospective meeting post-pilot evaluation.
+456,10,Call Outbound,10/14/2024 18:19,Called to confirm next steps after proposal submission.
+457,48,Call Outbound,7/25/2024 0:27,Reached out to re-engage after two weeks of silence.
+458,27,Technical Review,6/25/2024 4:17,Conducted API compatibility review with client's dev team.
+459,24,Meeting Completed,05/01/2024 00:40,Finished 90-minute onsite visit; very engaged team.
+460,37,Deal Won,8/19/2024 13:12,Deal officially won! Contract signed and revenue booked.
+461,4,Timeline Confirmed,03/01/2024 10:06,Timeline locked in; implementation must start within 30 days.
+462,40,Deal Won,1/20/2024 7:49,Deal officially won! Contract signed and revenue booked.
+463,29,Contract Sent,9/14/2024 1:42,MSA and DPA sent to procurement for approval.
+464,39,Stakeholder Meeting,6/20/2024 16:09,Stakeholder meeting to confirm priorities and success metrics.
+465,14,Contract Sent,10/20/2024 4:34,Sent final contract version after all redlines resolved.
+466,23,Call Inbound,6/15/2024 23:05,Prospect called to ask technical questions about integrations.
+467,44,Contract Signed,9/20/2024 11:57,All parties signed. Deal marked closed-won in CRM.
+468,34,Stakeholder Meeting,9/16/2024 2:07,Internal champion organized cross-functional review meeting.
+469,15,Email Received,06/02/2024 12:07,Client confirmed attendance for the executive briefing.
+470,1,Email Received,3/20/2024 9:21,Received RFP document from procurement team.
+471,50,Demo Conducted,2/23/2024 7:07,Delivered tailored demo addressing industry-specific use cases.
+472,21,Contract Signed,2/16/2024 14:20,Contract countersigned and returned. Deal officially closed.
+473,48,Stakeholder Meeting,6/16/2024 5:59,Stakeholder alignment session with 5 internal champions.
+474,25,Meeting Scheduled,7/25/2024 20:01,Booked executive sponsor meeting for end of quarter.
+475,36,Product Walkthrough,11/19/2024 15:25,Product walkthrough focused on compliance and audit capabilities.
+476,26,Call Outbound,11/30/2024 16:13,Called to confirm next steps after proposal submission.
+477,2,Executive Briefing,6/27/2024 13:13,Executive briefing with C-suite; strong strategic alignment noted.
+478,21,Budget Confirmed,08/11/2024 14:27,Procurement confirmed budget line item exists for this project.
+479,26,POC Completed,10/02/2024 13:00,Evaluation complete; champion presented results to leadership.
+480,8,Contract Signed,06/06/2024 07:10,Contract countersigned and returned. Deal officially closed.
+481,11,Follow-up Sent,11/07/2024 04:51,Follow-up sent with additional reference customers.
+482,45,Pricing Discussion,12/23/2024 4:52,Pricing call to address budget gap; exploring phased rollout.
+483,28,Call Outbound,11/23/2024 23:09,Called to confirm next steps after proposal submission.
+484,28,Proposal Sent,8/16/2024 16:40,Proposal emailed with executive summary and ROI projections.
+485,6,Product Walkthrough,06/02/2024 16:48,Product walkthrough focused on compliance and audit capabilities.
+486,22,Deal Lost,3/27/2024 1:12,Lost deal after final evaluation; integration complexity cited.
+487,11,Deal Won,1/30/2024 15:54,Won deal; client committed to 3-year enterprise agreement.
+488,8,Legal Review,7/25/2024 1:35,Final legal review underway; expected resolution within 5 days.
+489,50,Demo Conducted,5/15/2024 16:24,Delivered tailored demo addressing industry-specific use cases.
+490,42,Deal Lost,11/12/2024 12:41,Opportunity closed-lost; prospect chose to delay purchase.
+491,7,Proposal Sent,2/26/2024 20:57,Shared commercial proposal following scope confirmation.
+492,12,Demo Conducted,8/21/2024 22:45,Demo focused on automation workflows; impressed by ease of use.
+493,49,Deal Won,09/11/2024 13:47,Deal officially won! Contract signed and revenue booked.
+494,50,Meeting Completed,8/31/2024 20:54,Completed retrospective meeting post-pilot evaluation.
+495,49,Pricing Discussion,08/06/2024 22:23,Budget holder joined call to validate pricing fit.
+496,44,Pricing Discussion,12/24/2024 21:44,Budget holder joined call to validate pricing fit.
+497,41,Legal Review,8/30/2024 12:57,Legal review completed; two clauses require negotiation.
+498,41,Budget Confirmed,05/02/2024 18:37,Finance team confirmed funding availability for Q3 close.
+499,5,Pricing Discussion,07/01/2024 02:39,Walked through pricing tiers and feature bundling options.
+500,20,Legal Review,11/05/2024 06:19,Legal review completed; two clauses require negotiation.
